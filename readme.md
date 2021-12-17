@@ -1,4 +1,4 @@
-# Controlled text generation for Political Speeches using PPLM. 
+# Controlled text generation for Political Speeches using Improved Plug and Play approach
 
 ## Group Members
 Haritha Anannthakrishnan, Madhumitha Mohan, Madhu Samhitha Vangara, Somya Goel
